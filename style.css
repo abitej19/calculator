@@ -1,0 +1,39 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'ubuntu', sans-serif;
+    background-color: rgb(126, 134, 48);
+}
+h1{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    
+}
+.mw{
+    max-width: 150vw;
+}
+.row{
+    margin: 8px;
+}
+.button{
+    padding: 25px;
+    margin: 0 3pxb;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: rgb(148, 158, 167);
+}
+.align-center{
+    align-items: center;
+}
+.row{
+ margin: 15px 0;
+}
+.row1{
+    font-size: 18px;
+    padding: 6px 22px;
+    border: 2px solid black;
+    border-radius: 9px;
+}
